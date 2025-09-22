@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/valid-palindrome/description/
-//check on neetcode
+
 
 class Solution {
     /**
